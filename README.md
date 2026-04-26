@@ -31,6 +31,10 @@ adb shell "chmod 755 /data/local/tmp/frida-server"
 adb shell "/data/local/tmp/frida-server &"
 ```
 
+<img width="1113" height="190" alt="image" src="https://github.com/user-attachments/assets/652962f1-a607-450f-a765-57e7944ffd06" />
+
+
+
 <img width="1104" height="157" alt="image" src="https://github.com/user-attachments/assets/926af187-a80a-4dd9-90e6-ed31285c8178" />
 
 ---
